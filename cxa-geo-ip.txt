@@ -6,7 +6,7 @@
 184.178.225.0/27,US,US-OK,Oklahoma City,
 184.178.226.0/27,US,US-NE,Omaha,
 184.178.227.0/25,US,US-KS,Wichita,
-184.178.229.0/25,US,US-CA,Wichita,
+184.178.229.0/25,US,US-CA,Rancho Santa Margarita,
 184.178.230.0/25,US,US-NV,Las Vegas,
 184.178.231.0/25,US,US-AZ,Phoenix,
 184.188.68.0/27,US,US-VA,Fairfax,
