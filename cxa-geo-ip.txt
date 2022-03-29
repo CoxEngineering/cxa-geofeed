@@ -1,5 +1,6 @@
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
-# Cox Communications Inc. Geofeed,lastupdated (rfc3339): 2022-03-03T19:23:23+00:00
+# Cox Communications Inc. Geofeed,lastupdated (rfc3339): 2022-03-28T19:23:23+00:00
+50.158.0.0/15,US,US-NV,Las Vegas,
 68.228.15.0/27,US,US-VA,Norfolk,
 68.225.1.128/25,US,US-GA,Atlanta,
 98.188.214.0/24,US,US-VA,Roanoke,
@@ -7,8 +8,11 @@
 184.178.225.0/27,US,US-OK,Oklahoma City,
 184.178.226.0/27,US,US-NE,Omaha,
 184.178.227.0/25,US,US-KS,Wichita,
+184.178.228.0/25,US,US-CA,San Diego,
 184.178.229.0/25,US,US-CA,Rancho Santa Margarita,
 184.178.230.0/25,US,US-NV,Las Vegas,
 184.178.231.0/25,US,US-AZ,Phoenix,
 184.188.68.0/27,US,US-VA,Fairfax,
 184.188.69.0/25,US,US-RI,Providence,
+184.188.70.0/25,US,US-GA,Atlanta,
+184.188.71.0/25,US,US-LA,New Orleans,
