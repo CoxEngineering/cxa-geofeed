@@ -16,3 +16,4 @@
 184.188.69.0/25,US,US-RI,Providence,
 184.188.70.0/25,US,US-GA,Atlanta,
 184.188.71.0/25,US,US-LA,New Orleans,
+2600:8807:a800::/42,US,US-GA,Atlanta,
