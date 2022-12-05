@@ -1,7 +1,7 @@
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
-# Cox Communications Inc. Geofeed,lastupdated (rfc3339): 2022-07-13T19:23:23+00:00
+# Cox Communications Inc. Geofeed,lastupdated (rfc3339): 2022-12-5T19:23:23+00:00
 50.158.0.0/15,US,US-NV,Las Vegas,
-68.225.1.128/25,US,US-GA,Atlanta,
+68.225.1.0/24,US,US-GA,Atlanta,
 72.212.252.0/24,US,US-GA,Atlanta,
 72.212.253.0/24,US,US-GA,Atlanta,
 72.212.254.0/24,US,US-GA,Atlanta,
