@@ -1,5 +1,5 @@
 50.158.0.0/15,US,US-NV,Las Vegas,
-68.225.1.128/25,US,US-GA,Atlanta,
+68.225.1.0/24,US,US-GA,Atlanta,
 72.212.252.0/24,US,US-GA,Atlanta,
 72.212.253.0/24,US,US-GA,Atlanta,
 72.212.254.0/24,US,US-GA,Atlanta,
