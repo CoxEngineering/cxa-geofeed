@@ -1,5 +1,5 @@
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
-# Cox Communications Inc. Geofeed,lastupdated (rfc3339): 2022-12-5T19:23:23+00:00
+# Cox Communications Inc. Geofeed,lastupdated (rfc3339): 2024-2-5T19:02:23+00:00
 72.221.130.0/24,US,US-CA,Chula Vista,
 72.221.146.0/24,US,US-CA,San Diego,
 72.221.179.0/24,US,US-CA,San Diego,
