@@ -1,5 +1,5 @@
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
-# Cox Communications Inc. Geofeed,lastupdated (rfc3339): 2024-8-26T19:02:23+00:00
+# Cox Communications Inc. Geofeed,lastupdated (rfc3339): 2025-6-2T19:02:23+00:00
 # MAP-T Allocations
 72.221.128.0/24,US,US-CA,San Diego,
 72.221.129.0/24,US,US-CA,San Diego,
