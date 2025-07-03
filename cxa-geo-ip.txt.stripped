@@ -2759,6 +2759,8 @@
 24.250.0.0/18,US,US-RI,Providence,
 24.253.160.0/19,US,US-RI,Providence,
 2600:8805:8000::/33,US,US-RI,Providence,
+2600:8805:cc00::/38,US,US-CT,Manchester,
+2600:8805:d000::/38,US,US-CT,Manchester,
 2600:8808:2200::/39,US,US-RI,Providence,
 2600:8808:2400::/39,US,US-RI,Providence,
 2600:880b:a000::/35,US,US-RI,Providence,
