@@ -2267,6 +2267,7 @@
 98.191.52.0/22,US,US-FL,Pensacola,
 98.191.94.0/24,US,US-FL,Pensacola,
 98.181.8.0/21,US,US-FL,Pensacola,
+98.182.192.0/21,US,US-AZ,Phoenix,
 98.182.224.0/20,US,US-AZ,Phoenix,
 98.181.0.0/21,US,US-AZ,Phoenix,
 98.181.32.0/19,US,US-AZ,Phoenix,
